@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robertolopes-dados
-- 👀 I’m interested in Data Analysis, Data Science, Information Technology, Artificial Intelligence, Physics, History, Archeology, Paleontology, Theater, Photography and several other subjects.
-- 🌱 I’m currently learning Data Analysis, Data Science and Information Technology.
+- 👀 I’m interested in Information Technology, Artificial Intelligence, Physics, Robotics, History, Archeology, Paleontology, Theater, Photography.
+- 🌱 I’m currently studying Artificial Intelligence at Univesp.
 - 💞️ I’m looking to collaborate on meaningful projects in coding and no-coding tasks.
 - 📫 How to reach me: robertolopes.dados@gmail.com
 
